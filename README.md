@@ -52,16 +52,10 @@ Most of my work sits around full-stack TypeScript, Python tooling, Web3 products
   <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
-## GitHub Activity
-
-<p>
-  <img height="165" alt="Phung's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nvphungdev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvphungdev&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
 ## Contact
 
 For freelance work, collaboration, or project questions, reach me through GitHub:
 
 - Profile: [github.com/nvphungdev](https://github.com/nvphungdev)
+- Email: [nvphungdev@gmail.com](mailto:nvphungdev@gmail.com)
 - Best first step: open an issue or discussion on the relevant repository.
